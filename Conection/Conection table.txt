@@ -1,0 +1,36 @@
+🔌 Connections (ESP32 Pin Mapping)
+
+🌫️ MQ2 Gas Sensor
+| MQ2 Pin | Connect To     |
+| ------- | -------------- |
+| VCC     | 5V (ESP32 Vin) |
+| GND     | GND            |
+| AO      | GPIO 34        |
+
+🌡️💧 DHT11 Sensor
+  | DHT11 Pin | Connect To |
+| --------- | ---------- |
+| VCC       | 3.3V       |
+| GND       | GND        |
+| DATA      | GPIO 4     |
+👉 If using raw sensor (not module), add 10k pull-up resistor between VCC and DATA.
+
+🖥️ OLED Display (SSD1306 I2C)
+| OLED Pin | Connect To |
+| -------- | ---------- |
+| VCC      | 3.3V       |
+| GND      | GND        |
+| SDA      | GPIO 21    |
+| SCL      | GPIO 22    |
+
+💡 LED
+| LED Leg       | Connect To                          |
+| ------------- | ----------------------------------- |
+| Long Leg (+)  | GPIO 18                             |
+| Short Leg (–) | GND (via 220Ω resistor recommended) |
+
+🔔 Buzzer
+| Buzzer Pin   | Connect To |
+| ------------ | ---------- |
+| Positive (+) | GPIO 27    |
+| Negative (–) | GND        |
