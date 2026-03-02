@@ -1,0 +1,13 @@
+🧩 Components List
+
+🔹 ESP32 Development Board ⚡
+🔹 MQ2 Gas Sensor Module 🌫️
+🔹 DHT11 Temperature & Humidity Sensor 🌡️💧
+🔹 0.96" OLED Display (SSD1306, I2C) 📟
+🔹 LED 💡
+🔹 Active Buzzer 🔔
+🔹 220Ω Resistor (for LED) 🔌
+🔹 Jumper Wires 🔗
+🔹 Breadboard 🧱
+🔹 Micro USB Cable 🔋
+🔹 WiFi Hotspot / Router 📡
