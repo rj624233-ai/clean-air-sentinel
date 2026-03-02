@@ -6,17 +6,11 @@ This system monitors air quality in real time, displays it locally, and uploads 
 
 
 📌 Features
-
 Real-time air quality monitoring
-
 Temperature and humidity measurement
-
 OLED display output
-
 LED & buzzer alert system
-
 Cloud data upload using ThingSpeak
-
 Remote monitoring from anywhere
 
 ☁️ Cloud Integration
