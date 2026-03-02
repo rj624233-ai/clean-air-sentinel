@@ -18,3 +18,43 @@ LED & buzzer alert system
 Cloud data upload using ThingSpeak
 
 Remote monitoring from anywhere
+
+☁️ Cloud Integration
+
+The ESP32 connects to WiFi and sends sensor data to ThingSpeak every 15 seconds.
+
+Field 1 → Air Quality
+Field 2 → Temperature
+Field 3 → Humidity
+
+📊 How It Works
+
+MQ2 reads gas concentration.
+
+DHT11 measures temperature and humidity.
+
+Data is displayed locally on OLED.
+
+If pollution exceeds threshold:
+
+LED turns ON
+
+Buzzer alerts
+
+Data is uploaded to ThingSpeak cloud.
+
+🎯 Applications
+
+Smart homes
+
+Indoor air monitoring
+
+Schools and labs
+
+Smart city systems
+
+## 🎥 Live Demonstration
+
+A full working demo of the Clean Air Sentinel project is available on YouTube.
+
+▶️ Watch here: https://youtu.be/w3F0ACZtN0c
