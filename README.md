@@ -58,3 +58,7 @@ Smart city systems
 A full working demo of the Clean Air Sentinel project is available on YouTube.
 
 ▶️ Watch here: https://youtu.be/w3F0ACZtN0c
+
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/w3F0ACZtN0c/0.jpg)](https://youtu.be/w3F0ACZtN0c)
